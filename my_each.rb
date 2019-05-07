@@ -5,5 +5,5 @@ while i < array.length
     yield(array[i])
     i += 1
   end
-  arr
+  array
 end
